@@ -1,0 +1,38 @@
+<annotation>
+	<folder>extra photos</folder>
+	<filename>966.jpg</filename>
+	<path>E:\yolo detection tut\data collected\img\extra photos\966.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6009</width>
+		<height>3546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4794</xmin>
+			<ymin>1589</ymin>
+			<xmax>5046</xmax>
+			<ymax>1761</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Reflective vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4667</xmin>
+			<ymin>1818</ymin>
+			<xmax>5166</xmax>
+			<ymax>2527</ymax>
+		</bndbox>
+	</object>
+</annotation>

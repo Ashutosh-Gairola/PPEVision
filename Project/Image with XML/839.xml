@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>839.jpg</filename>
+	<path>E:\yolo detection tut\Notes2\1_datapreparation\data_images\839.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5546</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Reflective vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2735</xmin>
+			<ymin>1705</ymin>
+			<xmax>3485</xmax>
+			<ymax>2790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2748</xmin>
+			<ymin>1280</ymin>
+			<xmax>3222</xmax>
+			<ymax>1793</ymax>
+		</bndbox>
+	</object>
+</annotation>

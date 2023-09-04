@@ -1,0 +1,62 @@
+<annotation>
+	<folder>extra photos</folder>
+	<filename>853.jpg</filename>
+	<path>E:\yolo detection tut\data collected\img\extra photos\853.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7715</width>
+		<height>5144</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3885</xmin>
+			<ymin>2927</ymin>
+			<xmax>4206</xmax>
+			<ymax>3134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4315</xmin>
+			<ymin>2900</ymin>
+			<xmax>4563</xmax>
+			<ymax>3136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Reflective vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3774</xmin>
+			<ymin>3198</ymin>
+			<xmax>4233</xmax>
+			<ymax>3814</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Reflective vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4254</xmin>
+			<ymin>3164</ymin>
+			<xmax>4710</xmax>
+			<ymax>3809</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5gb</folder>
+	<filename>1805.jpg</filename>
+	<path>E:\yolo detection tut\Backup data\img\5gb\1805.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>205</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>4</ymin>
+			<xmax>192</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

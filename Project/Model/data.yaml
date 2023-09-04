@@ -1,0 +1,9 @@
+train: data_images/train
+val: data_images/test
+nc: 5
+names: ['Helmet',
+        'No helmet',
+        'Reflective vest',
+        'No vest',
+        'Reflective vest strip'
+]

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>218.jpg</filename>
+	<path>E:\yolo detection tut\Notes2\1_datapreparation\data_images\218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>25</ymin>
+			<xmax>294</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>108</ymin>
+			<xmax>351</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
